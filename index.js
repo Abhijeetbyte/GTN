@@ -31,8 +31,8 @@ while (user_num != rand_num) {
  } 
 }
 // exit loop
-console.log("\nCongratulations !\n\nthe number is ", rand_num);
-console.log("\nYour score is ",100-score);
+console.log("\n***** Congratulations ! *****\n\nThe correct number is ", rand_num, "\nYour score is ",100-score);
+console.log("\nThanks for playing !\n"); // thanks for playing
   
   
 
