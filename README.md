@@ -7,4 +7,4 @@
 * the user is allowed to guess ~~5~~ unlimited times
 * the users also get hints on whether they are too high or too low.
 
-### Want to play click [here](https://replit.com/@Abhijeetbyte/Guess-the-Number-by-Abhijeet-Kumar)
+### 🎮 Want to play click [here](https://replit.com/@Abhijeetbyte/Guess-the-Number-by-Abhijeet-Kumar)
