@@ -1,5 +1,5 @@
-# Honk-Honk
-Honk-Honk is a number game built with JavaScript<br/>
+# GTN
+"Guess the Number" is a number game built with JavaScript<br/>
 
  Gusse a random number between 1 and 100
 * if the number is guessed correctly, the game ends and the score is displayed 
